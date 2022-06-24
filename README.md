@@ -1,3 +1,4 @@
 # Zuri-JS
 Zuri-JS
-Hosted zuri-js.vercel.app
+
+zuri-js.vercel.app
